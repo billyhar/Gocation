@@ -1,0 +1,319 @@
+
+
+
+.colour{
+
+width: 60%;
+
+}
+
+
+h1 h2 h3 h4{
+font-family: "Montserrat", sans-serif
+color: #F53837;
+}
+
+
+h3{
+
+font-family: "Montserrat", sans-serif
+color: #fff;
+
+}
+
+.stats{
+
+width: 89%;
+
+}
+
+
+a{
+
+color: #F53837;
+
+}
+
+
+.fadeInBlock {
+    opacity:0;
+}
+
+.logo1{
+
+width: 60%;
+
+}
+
+.logo2{
+
+width: 100%;
+
+}
+
+.gif1{
+
+width: 40%;
+
+}
+
+
+
+
+/*MEDIA QUERIES*/
+
+@media screen{
+
+
+p{
+
+  color: white;
+  text-align: left;
+  font-family: 'Open-Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 100;
+}
+
+
+.container{
+  margin-bottom:30%;
+}
+
+.mockup{
+width: 100%;
+}
+
+
+
+
+.name {
+  color: #F53837;
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*.picture{
+  display:inline-block;
+  text-align: right;
+  margin-right: 3%;
+  margin-top: 2%;
+  width: 60px;
+  height: 60px;
+}*/
+
+
+h1 {
+
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  color: #F53837;
+}
+
+
+.page-head{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  color: #F53837;
+  text-align: left;
+
+
+}
+
+
+.navlist{
+
+font-family: 'Montserrat', sans-serif;
+margin-top: 30px;
+text-align: right;
+}
+}
+
+
+.navlist a{
+
+margin-left: 8px;
+margin-right: 8px;
+color: #EE2D35;
+text-decoration: none;
+
+
+}
+
+
+.navlist a:active{
+color: #fff;
+text-decoration: none;
+
+
+}
+
+
+span{
+
+color: #EE2D35;
+
+}
+
+
+persona{
+  width: 90%;
+}
+
+.map1{
+
+margin-top: 5%
+
+
+}
+
+.appstore{
+margin-top: 5%;
+width: 30%;
+
+}
+
+.navlist a:visited{
+color: #EE2D35;
+text-decoration: none;
+
+
+}
+
+
+.navlist a:hover{
+
+color: white;
+
+
+}
+
+
+
+img{
+
+width: 100%;
+text-align: center;
+margin: auto;
+}
+
+
+
+
+
+}
+
+
+
+}
+
+@media screen, print {
+body { line-height: 1.2
+
+
+
+ }
+
+
+
+ }
+
+
+
+
+@media screen and (max-width: 768px) {
+
+body {
+
+background-color: #373F4F;
+color: white;
+
+}
+
+.mockup{
+width: 100%;
+}
+
+
+
+
+
+.navlist{
+font-family: 'Montserrat', sans-serif;
+text-align: left;
+
+
+
+
+}
+
+
+.navlist a{
+color: #EE2D35;
+text-decoration: none;
+
+
+}
+
+
+
+
+
+.name {
+  color: #F53837;
+  text-align: left;
+  font-size: 2em;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+
+
+ }
+
+
+
+
+
+@media screen and (max-width: 480px) {
+
+body {
+
+background-color: #373F4F;
+
+
+}
+
+.page-head{
+
+margin-left: 4%
+
+}
+
+.mockup{
+width: 90%;
+
+}
+
+
+.navlist{
+font-family: 'Montserrat', sans-serif;
+text-align: left;
+
+
+}
+
+
+.navlist a{
+color: #EE2D35;
+text-decoration: none;
+
+
+}
+
+
+
+ }
+
+
+
